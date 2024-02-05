@@ -14,3 +14,10 @@ Search Movies by Title: Users can search for movies by title to quickly find spe
 
 -Offline Mode: The app caches data locally to enable offline browsing, ensuring a seamless user experience even without an internet connection.
 
+<h2>Installation</h2>
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run npm install or yarn install to install dependencies.
+4. Follow platform-specific instructions for running the app:
+5. For React Native: Run npx react-native run-android or npx react-native run-ios to launch the app on an Android or iOS emulator/device.
+6. For Flutter: Run flutter run to launch the app on an emulator/device.
