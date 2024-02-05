@@ -26,3 +26,10 @@ Search Movies by Title: Users can search for movies by title to quickly find spe
 5. For React Native: Run npx react-native run-android or npx react-native run-ios to launch the app on an Android or iOS emulator/device.
   
 6. For Flutter: Run flutter run to launch the app on an emulator/device.
+
+<h2>ScreenShots:</h2>
+
+![2](https://github.com/Basma2022/moviesApp/assets/109489506/bab12cf8-9e8e-4c87-a0b8-9a47177f6372)
+![1](https://github.com/Basma2022/moviesApp/assets/109489506/cfee725a-1e58-4b1a-bdec-411cc3f8ffa9)
+
+
